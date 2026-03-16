@@ -17,5 +17,6 @@ But for now, here's the list of mods!
 - [Feedbackers For All](https://github.com/nyxpirientity/ULTRAKILL-FeedbackersForAll)
 - [Heck Puppets](https://github.com/nyxpirientity/ULTRAKILL-HeckPuppets)
 - [Cybergrind Quick Restart](https://github.com/nyxpirientity/ULTRAKILL-CybergrindQuickRestart)
+- [Cybergrind Challenger](https://github.com/nyxpirientity/ULTRAKILL-CybergrindChallenger)
 - [Bad Gyro](https://github.com/nyxpirientity/ULTRAKILL-BadGyro)
   
